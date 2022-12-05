@@ -1,0 +1,56 @@
+{
+    "cortes": [
+        {
+            "nome": "Americano",
+            "preco": "25 reais"
+        },
+        {
+            "nome": "Jaca",
+            "preco": "25 reais"
+        },
+        {
+            "nome": "Moicano",
+            "preco": "25 reais"
+        },
+        {
+            "nome": "Asa delta",
+            "preco": "25 reais"
+        }
+    ],
+    "pigmentacoes": [
+        {
+            "cor": "Preto",
+            "tempo": "20 minutos"
+        },
+        {
+            "cor": "Reflexo",
+            "tempo": "1 hora"
+        },
+        {
+            "cor": "Neve",
+            "tempo": "1 hora"
+        },
+        {
+            "cor": "Vermelho",
+            "tempo": "20 minutos"
+        }
+    ],
+    "materiais": [
+        {
+            "nome": "Máquina de cortar cabelo",
+            "marca": "Kemei"
+        },
+        {
+            "nome": "Pó descolorante",
+            "marca": "Yamá"
+        },
+        {
+            "nome": "Água oxigenada",
+            "marca": "Márcia"
+        },
+        {
+            "nome": "Tinta",
+            "marca": "Embelleze"
+        }
+    ]
+}
